@@ -50,7 +50,7 @@ def add_characters
          {name: "Nurse", age: "44", attitude: "worried"}
          ]
       }
-   }
+   },
 
    # Write code below that does the following programmatically:
    #
@@ -60,7 +60,7 @@ def add_characters
    #   - The second hash should have the :name key set to "Apothecary"
    # Code your solution here:
         :additional_characters => [
-          {name: "Prince Escalus"}
+          {name: "Prince Escalus"},
           {name: "Apothecary"}
         ]
 
